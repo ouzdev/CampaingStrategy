@@ -9,4 +9,4 @@ We may need more than one algorithm when implementing a campaign based on produc
 Sepete eklenen ürüne göre kampanya oranı kadar indirim uygulayan konsol uygulama projesidir. Bu uygulamada Strategy Pattern kullanılmaktadır.
 
 ### Neden Strategy Pattern Kullandık ?
-Ürün türüne göre kampanya uygularken birden fazla algoritmaya ihtiyaç duyabiliriz. Kampanya algoritmaları her ürün grubu için farklıdır ve yeni bir ürün grubu veya kampanya türü eklerken daha merkezi ve sürdürülebilir bir yapı oluşturmak için ve çalışma zamanında duruma göre strateji belirlemek için Strategy Pattern kullandık.
+Ürün türüne göre kampanya uygularken birden fazla algoritmaya ihtiyaç duyabiliriz. Kampanya algoritmaları her ürün grubu için farklıdır ve yeni bir ürün grubu veya kampanya türü eklerken daha merkezi ve sürdürülebilir bir yapı oluşturmak için ve çalışma zamanında duruma göre kampanya stratejisi belirlemek için Strategy Pattern kullandık.
